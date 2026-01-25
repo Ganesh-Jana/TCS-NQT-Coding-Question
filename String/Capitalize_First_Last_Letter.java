@@ -1,7 +1,5 @@
 package String;
 
-import java.util.Arrays;
-
 public class Capitalize_First_Last_Letter {
     public static String capitalize(String str){
         String[] words = str.split("\\s+");
