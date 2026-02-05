@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 public class AP_Series {
     static double AP(int n, int a, int d){
         return  (n/2.0)*(2.0 * a + (n-1) * d);

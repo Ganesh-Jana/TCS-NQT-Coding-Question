@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class MAX_MIN_digit {
     public static void main(String[] args) {

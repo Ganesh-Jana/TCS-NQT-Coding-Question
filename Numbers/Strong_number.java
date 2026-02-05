@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class Strong_number {
     public static int factorial(int digit){

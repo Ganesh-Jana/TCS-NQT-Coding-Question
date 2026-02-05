@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class Sum_of_digit {
     public static int sumDigit(int n){

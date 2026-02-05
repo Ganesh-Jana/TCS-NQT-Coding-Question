@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class Automorphic {
     public static boolean isAutomorphic(int n){

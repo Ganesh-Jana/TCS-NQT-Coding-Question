@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class All_Palindrome {
     static boolean isPalindrome(int n){

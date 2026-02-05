@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class GCD {
     public static int gcd(int n1, int n2){

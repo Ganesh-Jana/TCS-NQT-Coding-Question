@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 import java.util.Scanner;
 public class LCM {
     public static int gcd(int n1, int n2){

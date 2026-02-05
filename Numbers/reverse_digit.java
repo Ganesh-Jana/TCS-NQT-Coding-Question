@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class reverse_digit {
     static int isReverse(int n){

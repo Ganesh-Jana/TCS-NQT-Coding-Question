@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 /* Example 1:
         Input: 18
         Output: Abundant Number

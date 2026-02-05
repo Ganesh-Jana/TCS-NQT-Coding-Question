@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class Aramstrong {
     static boolean isAramstrong(int n){

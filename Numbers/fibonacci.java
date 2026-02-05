@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class fibonacci {
     public static int fibonacci_series(int n){

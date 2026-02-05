@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class reverse_digit_string {
     public static String reverse(String n){

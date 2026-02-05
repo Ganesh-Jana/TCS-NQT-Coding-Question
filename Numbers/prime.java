@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class prime {
     static boolean isPrime(int n){

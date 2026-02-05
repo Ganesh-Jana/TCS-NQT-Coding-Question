@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class GP_Series {
     static double GP(int a, int r, int n){

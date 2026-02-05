@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class Perfect_Number {
     static boolean isPerfect(int n){

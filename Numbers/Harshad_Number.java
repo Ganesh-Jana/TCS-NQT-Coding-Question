@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 //A number is harshad number if sum of individual number is divided by given number.
 public class Harshad_Number {
     public static boolean isHarshad(int n){

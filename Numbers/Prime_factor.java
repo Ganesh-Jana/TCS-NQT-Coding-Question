@@ -1,4 +1,4 @@
-package Number_System;
+package Numbers;
 
 public class Prime_factor {
     public static void primeFactor(int n){
