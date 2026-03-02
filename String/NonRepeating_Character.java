@@ -1,5 +1,4 @@
 package String;
-
 public class NonRepeating_Character {
     public static void nonRepeating(String str){
         int[] freq = new int[26];

@@ -10,7 +10,6 @@ public class prime {
         }
         return true;
     }
-
     public static void main(String[] args) {
         int min = 10, max = 100;
         for(int i = min; i<=max; i++){

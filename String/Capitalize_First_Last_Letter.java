@@ -16,7 +16,6 @@ public class Capitalize_First_Last_Letter {
             }
             st.append(" ");
         }
-
         return st.toString().trim();
     }
     public static void main(String[] args) {
