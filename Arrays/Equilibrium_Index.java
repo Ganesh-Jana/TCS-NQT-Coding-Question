@@ -1,5 +1,4 @@
 package Arrays;
-
 public class Equilibrium_Index {
     public static void main(String[] args) {
         int[] arr = {1,-1,4};

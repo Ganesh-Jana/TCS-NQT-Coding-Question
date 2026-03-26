@@ -5,7 +5,7 @@ public class PascalTriangle_I {
         Scanner sc = new Scanner(System.in);
         int r = sc.nextInt();
         int c = sc.nextInt();
-        System.out.println(result(r-1, c-1));
+        System.out.println(result(r - 1, c - 1));
     }
     public static long result(int n, int r){
         long res = 1;

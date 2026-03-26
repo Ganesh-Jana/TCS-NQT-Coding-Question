@@ -1,5 +1,4 @@
 package Arrays;
-
 public class Max_Product_Subarray {
     public static int maxProduct(int[] num){
         int pref = 1, suff = 1;

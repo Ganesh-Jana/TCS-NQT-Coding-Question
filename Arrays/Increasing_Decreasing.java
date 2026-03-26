@@ -12,6 +12,7 @@ public class Increasing_Decreasing {
             low++; high--;
         }
     }
+
     public static void main(String[] args) {
         int[] arr = {8,7,1,6,5,9};
         increaing_decreasing(arr);
