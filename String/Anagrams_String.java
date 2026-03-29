@@ -3,6 +3,7 @@ import java.util.HashSet;
 import java.util.Set;
 public class Anagrams_String {
     public static boolean isAnagrams(String str1, String str2){
+        if(str1.length() != str2.length()) return false;
         Set<Character> st = new HashSet<>();
         for(char ch:str1.toCharArray()){
             st.add(ch);

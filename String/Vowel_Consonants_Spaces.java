@@ -1,6 +1,5 @@
 package String;
 
-
 public class Vowel_Consonants_Spaces {
     public static void count(String str){
         int vowel = 0, consonants = 0, spaces = 0;

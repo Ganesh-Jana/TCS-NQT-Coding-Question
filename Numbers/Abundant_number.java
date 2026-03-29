@@ -5,6 +5,7 @@ package Numbers;
         Explanation: Divisors of 18 are 1,2,3,6,9. 1+2+3+6+9=21, Since 21 is greater than 18, 18 is an abundant
          number.
  */
+
 public class Abundant_number {
     public static int factorSum(int n){
         int sum = 0;

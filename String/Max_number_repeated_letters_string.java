@@ -1,7 +1,5 @@
 package String;
-
 import java.util.Scanner;
-
 public class Max_number_repeated_letters_string {
     public static String maxRepeatedLetters(String str){
         int n = str.length();
